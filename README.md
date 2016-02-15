@@ -1,4 +1,5 @@
 # ReactNativeDemo
+
 Facebook 在2015.9.15发布了 React Native for Android，把 JavaScript 开发技术扩展到了移动Android平台。
 基于React的React Native 让前端开发者使用 JavaScript 和 React 编写应用，利用相同的核心代码就可以创建 
 基于Web，iOS 和 Android 平台的原生应用。
